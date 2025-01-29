@@ -1,0 +1,6 @@
+viam-sdk
+pyinstaller
+google-api-python-client
+setuptools
+adafruit-blinka
+adafruit-circuitpython-ens160

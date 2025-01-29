@@ -1,0 +1,14 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "coderscafe:ens160",
+  "visibility": "public",
+  "url": "https://github.com/CodersCafeTech/ENS160-Viam-Module",
+  "description": "A Module For Connecting ENS160 Gas Sensor With Raspberry Pi",
+  "models": [
+    {
+      "api": "rdk:component:sensor",
+      "model": "coderscafe:sensor:ens160"
+    }
+  ],
+  "entrypoint": "run.sh"
+}
