@@ -25,7 +25,7 @@ To use this module, follow these instructions to [add a module from the Viam Reg
 
 ### Attributes
 
-The following attributes are available for `rdk:sensor:coderscafe:sensor:ens160` sensor:
+The following attributes are available for `coderscafe:sensor:ens160` sensor:
 
 | Name | Type | Inclusion | Description |
 | ---- | ---- | --------- | ----------- |
