@@ -7,7 +7,7 @@ Ensure that [I2C communication is enabled](https://docs.viam.com/operate/referen
 
 ## Build and Run
 
-To use this module, follow these instructions to [add a module from the Viam Registry](https://docs.viam.com/registry/configure/#add-a-modular-resource-from-the-viam-registry) and select the `rdk:sensor:coderscafe:sensor:ens160` model from the [`coderscafe:sensor:ens160` module](https://app.viam.com/module/rdk/coderscafe:sensor:ens160).
+To use this module, follow these instructions to [add a module from the Viam Registry](https://docs.viam.com/registry/configure/#add-a-modular-resource-from-the-viam-registry) and select the [`coderscafe:sensor:ens160` module](https://app.viam.com/module/rdk/coderscafe:sensor:ens160).
 
 ## Configure your sensor
 
